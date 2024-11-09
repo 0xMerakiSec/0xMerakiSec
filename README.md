@@ -9,25 +9,11 @@ You can click the Preview link to take a look at your changes.
 
 I'm a passionate web application developer. I love diving into new technologies, contributing  and continuous learning. I have background in Penetration testing (Network services, web applications, Active Directory network), Cloud Engineering, Comptia A+, Website Trouble shooting, Application development, MERN stack and with SDK's and much more.
 
-### 🔭 Currently working on
-- Building web applications
-- Enhancing my skills in DevOps and Cloud infrastructure
-- Learning about SDK's and more production grade application development structures.
 
 ### 🌱 I’m currently learning
 - Advanced algorithms & data structures in JavaScript
-- [MonogDB CI/CD]
-- Enhancing my knowledge in [Cloud/AWS, Docker, etc.]
-
-### 👯 I’m looking to collaborate on
-- Open-source projects that make an impact
-- Interesting web app ideas
-
-
-### 💬 Ask me about
-- Full-stack web development
-- Penetration testing in Network, web application and active directory network.
-
+- Learning about SDK's and more production grade application development.
+- working on personal project to contribute
 
 ---
 
@@ -85,6 +71,15 @@ I'm a passionate web application developer. I love diving into new technologies,
   <small>Under work, Will be available soon!!</small>
 
 ---
+### 👯 I’m looking to collaborate on
+- Open-source projects that make an impact
+- Interesting web app ideas
+
+
+### 💬 Ask me about
+- Full-stack web development
+- Penetration testing in Network, web application and active directory network.
+
 
 ## 📫 How to reach me
 
