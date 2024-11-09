@@ -19,6 +19,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-profile-trophy.vercel.app/?username=0xMerakiSec&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0xMerakiSec&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
