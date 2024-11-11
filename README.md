@@ -67,8 +67,8 @@ I'm a passionate web application developer. I love diving into new technologies,
 - **[Utube](https://github.com/0xMerakiSec/Backend-project)**  
   <small>A video publishing web application with the functionality like youtube!</small>
 
-- **[XXXXXXXXXX](https://github.com/your-username/project-name-3)**  
-  <small>Under work, Will be available soon!!</small>
+- **[Auth-System](https://github.com/0xMerakiSec/auth-system)**  
+  <small>A production grade authentication system developed from scratch using MERN stack</small>
 
 ---
 ### 👯 I’m looking to collaborate on
