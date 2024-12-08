@@ -4,9 +4,9 @@
 You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi there, I'm [0xMerakiSec]!
-
+<!--
 [![Visitor Count](https://komarev.com/ghpvc/?username=0xMerakiSec&color=green)](https://github.com/0xMerakiSec) 
-
+-->
 I'm a passionate web application developer. I love diving into new technologies, contributing  and continuous learning. I have background in Penetration testing (Network services, web applications, Active Directory network), Cloud Engineering, Comptia A+, Website Trouble shooting, Application development, MERN stack and with SDK's and much more.
 
 
